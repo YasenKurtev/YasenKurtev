@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasenKurtev
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
 - 💞️ I’m looking to collaborate on JavaScript tasks.
 - 📫 How to reach me: yasenuni@abv.bg
 
