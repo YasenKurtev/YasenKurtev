@@ -7,7 +7,7 @@
 ## 👋 Introduction and Bio
 Hi, my name is Yasen and I am from Plovdiv, Bulgaria 🇧🇬!
 
-## Technologies and tools
+## 💻 Technologies and tools
 
 <img align="left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
