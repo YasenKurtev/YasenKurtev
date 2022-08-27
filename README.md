@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on JavaScript tasks.
 - 📫 How to reach me: yasenuni@abv.bg
 
-## Texhnologies and tools
+## 👋 Introduction and Bio
+Hi, my name is Yasen and I am from Plovdiv, Bulgaria 🇧🇬!
+
+## Technologies and tools
 
 <img align="left" alt="javascript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 
