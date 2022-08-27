@@ -22,7 +22,7 @@ I am actively looking for my first job as a JS Developer.
   </li>
   <li>
     <a href="tel:+359878419922">
-      <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />+359878419922
+      <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />Phone: +359878419922
     </a>
   </li>
   <li>
