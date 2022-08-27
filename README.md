@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @YasenKurtev
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
-- 💞️ I’m looking to collaborate on JavaScript tasks.
-- 📫 How to reach me: yasenuni@abv.bg
-
 ## 👋 Introduction and Bio
-Hi, my name is Yasen and I am from Plovdiv, Bulgaria 🇧🇬!
+🧑 Hi, my name is Yasen and I am from Plovdiv, Bulgaria 🇧🇬!
+
+🎓 This is my fourth year studying Software Development and Technology at Plovdiv University "Paisii Hilendarski".
+
+In November 2021 I have also started studying JS Development at Software University, where by now I have completed the following courses:
+- Programming Basics
+- Programming Fundamentals
+- JS Advanced
+- JS Applications
+
+I am currently learning ReactJS and NodeJS.
+
+I am actively looking for my first job as a JS Developer.
+
+## 📫 Contact me
+yasenuni@abv.bg
 
 ## 💻 Technologies and tools
-
 <img align="left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
