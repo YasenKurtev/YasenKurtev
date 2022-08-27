@@ -14,7 +14,7 @@ I am currently learning ReactJS and NodeJS.
 I am actively looking for my first job as a JS Developer.
 
 ## 📫 Contact me
-<a href="https://www.facebook.com/yasen.kurtev.3/"><img align="left" alt="facebook" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+<a href="https://www.facebook.com/yasen.kurtev.3/"><img align="left" alt="facebook" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> Facebook</a>
 yasenuni@abv.bg
 
 ## 💻 Technologies and tools
