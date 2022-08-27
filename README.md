@@ -9,9 +9,9 @@ In November 2021 I have also started studying JS Development at Software Univers
 - JS Advanced
 - JS Applications
 
-I am currently learning ReactJS and NodeJS.
+📖 I am currently learning ReactJS and NodeJS.
 
-I am actively looking for my first job as a JS Developer.
+🔍 I am actively looking for my first job as a JS Developer.
 
 ## 📫 Contact me
 <ul>
@@ -20,14 +20,12 @@ I am actively looking for my first job as a JS Developer.
     <a href="mailto:yasenkurtev1@gmail.com">yasenkurtev1@gmail.com</a>
   </li>
   <li>
-    <a href="tel:+359878419922">
-      <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />Phone: +359878419922
-    </a>
+    <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />
+    <a href="tel:+359878419922">+359 878 41 99 22</a>
   </li>
   <li>
-    <a href="https://www.facebook.com/yasen.kurtev.3/">
-      <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />Yasen Kurtev
-    </a>
+    <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />
+    <a href="https://www.facebook.com/yasen.kurtev.3/">Yasen Kurtev</a>
   </li>
 </ul>
 
