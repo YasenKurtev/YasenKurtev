@@ -14,15 +14,20 @@ I am currently learning ReactJS and NodeJS.
 I am actively looking for my first job as a JS Developer.
 
 ## 📫 Contact me
-<ul style="list-style-type: none">
+<ul>
   <li>
     <a href="mailto:yasenkurtev1@gmail.com">
-  <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />yasenkurtev1@gmail.com
+      <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />yasenkurtev1@gmail.com
+    </a>
+  </li>
+  <li>
+    <a href="tel:+359878419922">
+      <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />+359878419922
     </a>
   </li>
   <li>
     <a href="https://www.facebook.com/yasen.kurtev.3/">
-  <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />Facebook
+      <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />Yasen Kurtev
     </a>
   </li>
 </ul>
