@@ -14,7 +14,7 @@ I am currently learning ReactJS and NodeJS.
 I am actively looking for my first job as a JS Developer.
 
 ## 📫 Contact me
-<ul>
+<ul style="list-style-type: none">
   <li>
     <a href="mailto:yasenkurtev1@gmail.com">
   <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />yasenkurtev1@gmail.com
