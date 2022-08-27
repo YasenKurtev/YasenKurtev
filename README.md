@@ -10,6 +10,8 @@ Hi, my name is Yasen and I am from Plovdiv, Bulgaria 🇧🇬!
 ## Technologies and tools
 
 <img align="left" alt="javascript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+<img align="left" alt="javascript" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+<img align="left" alt="javascript" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 
 <!---
 YasenKurtev/YasenKurtev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
