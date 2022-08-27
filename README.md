@@ -16,9 +16,8 @@ I am actively looking for my first job as a JS Developer.
 ## 📫 Contact me
 <ul>
   <li>
-    <a href="mailto:yasenkurtev1@gmail.com">
-      <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />yasenkurtev1@gmail.com
-    </a>
+    <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+    <a href="mailto:yasenkurtev1@gmail.com">yasenkurtev1@gmail.com</a>
   </li>
   <li>
     <a href="tel:+359878419922">
