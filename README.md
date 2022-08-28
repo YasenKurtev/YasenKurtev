@@ -21,10 +21,14 @@ In November 2021 I have also started studying JS Development at Software Univers
   </li>
   <li>
     <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />
-    <a href="tel:+359878419922">+359 878 41 99 22</a>
+    <a href="tel:+359878419922">+359 888 41 99 22</a>
   </li>
   <li>
     <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />
+    <a href="https://www.facebook.com/yasen.kurtev.3/">Yasen Kurtev</a>
+  </li>
+  <li>
+    <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
     <a href="https://www.facebook.com/yasen.kurtev.3/">Yasen Kurtev</a>
   </li>
 </ul>
