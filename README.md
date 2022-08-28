@@ -28,8 +28,8 @@ In November 2021 I have also started studying JS Development at Software Univers
     <a href="https://www.facebook.com/yasen.kurtev.3/">Yasen Kurtev</a>
   </li>
   <li>
-    <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-    <a href="https://www.facebook.com/yasen.kurtev.3/">Yasen Kurtev</a>
+    <img align="left" alt="instagram" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+    <a href="https://www.instagram.com/yasenkurtev10/">yasenkurtev10</a>
   </li>
 </ul>
 
@@ -39,6 +39,8 @@ In November 2021 I have also started studying JS Development at Software Univers
 <img align="left" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="mocha" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+<img align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!---
 YasenKurtev/YasenKurtev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
