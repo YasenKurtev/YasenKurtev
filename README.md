@@ -3,7 +3,7 @@
 
 🔍 I am currently on my journey to become a JS Developer and I am actively searching for my first job in the IT industry.
 
-🎓 Recently I have graduated from Plovdiv University "Paisii Hilendarski" with a Bachelor's degree in Software Development and Technology.
+🎓 I have recently graduated from Plovdiv University "Paisii Hilendarski" with a bachelor's degree in Software Development and Technology.
 
 In November 2021 I have also started studying JS Development at Software University, where by now I have completed the following courses:
 - Programming Basics
