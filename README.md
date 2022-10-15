@@ -3,7 +3,7 @@
 
 🔍 I am currently on my journey to become a JS Developer and I am actively looking for my first job as such.
 
-🎓 This is my fourth year studying Software Development and Technology at Plovdiv University "Paisii Hilendarski".
+🎓 Recently I have graduated from Plovdiv University "Paisii Hilendarski" with a Bachelor's degree in Software Development and Technology.
 
 In November 2021 I have also started studying JS Development at Software University, where by now I have completed the following courses:
 - Programming Basics
@@ -13,11 +13,25 @@ In November 2021 I have also started studying JS Development at Software Univers
 
 📖 At the moment I am learning ReactJS and NodeJS.
 
+## 🛠️ My projects
+- <a href="https://github.com/YasenKurtev/react-weather-app">React Weather App</a> (Built with React and Styled Components)
+
+## 🤹‍♂️ Other interests
+I am a huge sports fan, both watching and practicing.</br>
+Almost everyday I run 🏃‍♂️, cycle 🚴‍♂️ and train with weights 🏋️‍♂️. Sometimes I play tennis 🎾, go karting 🏎️ and in winter I love to go skiing ⛷️.</br>
+On the TV I like to watch mainly football ⚽ and F1 🏎️, sometimes tennis 🎾, swimming 🏊 and boxing 🥊.</br>
+🏔️ I love to go hiking in the mountains.</br>
+📷 And I also like photography.
+
 ## 📫 How to reach me
 <ul>
   <li>
     <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
     <a href="mailto:yasenkurtev1@gmail.com">yasenkurtev1@gmail.com</a>
+  </li>
+  <li>
+    <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+    <a href="https://www.linkedin.com/in/yasen-kurtev-11b71b252/">Yasen Kurtev</a>
   </li>
   <li>
     <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />
@@ -32,13 +46,6 @@ In November 2021 I have also started studying JS Development at Software Univers
     <a href="https://www.instagram.com/yasenkurtev10/">yasenkurtev10</a>
   </li>
 </ul>
-
-## 🤹‍♂️ Other interests
-I am a huge sports fan, both watching and practicing.</br>
-Almost everyday I run 🏃‍♂️, cycle 🚴‍♂️ and train with weights 🏋️‍♂️. Sometimes I play tennis 🎾, go karting 🏎️ and in winter I love to go skiing ⛷️.</br>
-On the TV I like to watch mainly football ⚽ and F1 🏎️, sometimes tennis 🎾, swimming 🏊 and boxing 🥊.</br>
-🏔️ I love to go hiking in the mountains.</br>
-📷 And I also like photography.
 
 ## 💻 Technologies and tools
 <img align="left" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
