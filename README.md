@@ -1,7 +1,7 @@
 ## 👋 Introduction and bio
 🧑 Hi, my name is Yasen and I am from Plovdiv, Bulgaria 🇧🇬!
 
-🔍 I am currently on my journey to become a JS Developer and I am actively looking for my first job as such.
+🔍 I am currently on my journey to become a JS Developer and I am actively searching for my first job in the IT industry.
 
 🎓 Recently I have graduated from Plovdiv University "Paisii Hilendarski" with a Bachelor's degree in Software Development and Technology.
 
