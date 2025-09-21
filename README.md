@@ -1,8 +1,5 @@
-## 👋 Introduction and bio
-🧑 Hi, my name is Yasen and I am from Plovdiv, Bulgaria 🇧🇬!
-
 ## 🛠️ My projects
-- <a href="https://github.com/YasenKurtev/react-weather-app">React Weather App</a> (Built with React and Styled Components)
+- <a href="https://github.com/YasenKurtev/react-weather-app">React Weather App</a>
 
 ## 📫 How to reach me
 <ul>
@@ -13,10 +10,6 @@
   <li>
     <img align="left" alt="gmail" width="20px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
     <a href="https://www.linkedin.com/in/yasen-kurtev-11b71b252/">Yasen Kurtev</a>
-  </li>
-  <li>
-    <img align="left" alt="phone" width="20px" src="https://cdn-icons-png.flaticon.com/512/5585/5585856.png" />
-    <a href="tel:+359878419922">+359 888 41 99 22</a>
   </li>
   <li>
     <img align="left" alt="facebook" width="20px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />
